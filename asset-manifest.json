@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/weatherFinder/static/css/main.6dc915b0.chunk.css",
-    "main.js": "/weatherFinder/static/js/main.cc85ffd1.chunk.js",
-    "main.js.map": "/weatherFinder/static/js/main.cc85ffd1.chunk.js.map",
-    "runtime~main.js": "/weatherFinder/static/js/runtime~main.fb88fa9e.js",
-    "runtime~main.js.map": "/weatherFinder/static/js/runtime~main.fb88fa9e.js.map",
-    "static/css/2.aa57c059.chunk.css": "/weatherFinder/static/css/2.aa57c059.chunk.css",
-    "static/js/2.e597a5a4.chunk.js": "/weatherFinder/static/js/2.e597a5a4.chunk.js",
-    "static/js/2.e597a5a4.chunk.js.map": "/weatherFinder/static/js/2.e597a5a4.chunk.js.map",
-    "index.html": "/weatherFinder/index.html",
-    "precache-manifest.6066d9c8ab4be3ebb63c4ecfd31071d3.js": "/weatherFinder/precache-manifest.6066d9c8ab4be3ebb63c4ecfd31071d3.js",
-    "service-worker.js": "/weatherFinder/service-worker.js",
-    "static/css/2.aa57c059.chunk.css.map": "/weatherFinder/static/css/2.aa57c059.chunk.css.map",
-    "static/css/main.6dc915b0.chunk.css.map": "/weatherFinder/static/css/main.6dc915b0.chunk.css.map",
-    "static/media/App.css": "/weatherFinder/static/media/bg.b6796c73.jpg",
-    "static/media/bootstrap.min.css": "/weatherFinder/static/media/glyphicons-halflings-regular.fa277232.woff"
+    "main.css": "/weather-app/static/css/main.4e327da8.chunk.css",
+    "main.js": "/weather-app/static/js/main.d7981fd0.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.d7981fd0.chunk.js.map",
+    "runtime~main.js": "/weather-app/static/js/runtime~main.4606d7f5.js",
+    "runtime~main.js.map": "/weather-app/static/js/runtime~main.4606d7f5.js.map",
+    "static/css/2.64972e02.chunk.css": "/weather-app/static/css/2.64972e02.chunk.css",
+    "static/js/2.e597a5a4.chunk.js": "/weather-app/static/js/2.e597a5a4.chunk.js",
+    "static/js/2.e597a5a4.chunk.js.map": "/weather-app/static/js/2.e597a5a4.chunk.js.map",
+    "index.html": "/weather-app/index.html",
+    "precache-manifest.c5a5ad66999b27f176444814e3fa40e0.js": "/weather-app/precache-manifest.c5a5ad66999b27f176444814e3fa40e0.js",
+    "service-worker.js": "/weather-app/service-worker.js",
+    "static/css/2.64972e02.chunk.css.map": "/weather-app/static/css/2.64972e02.chunk.css.map",
+    "static/css/main.4e327da8.chunk.css.map": "/weather-app/static/css/main.4e327da8.chunk.css.map",
+    "static/media/App.css": "/weather-app/static/media/bg.b6796c73.jpg",
+    "static/media/bootstrap.min.css": "/weather-app/static/media/glyphicons-halflings-regular.fa277232.woff"
   }
 }
